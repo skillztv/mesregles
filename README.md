@@ -16,7 +16,7 @@ Il est interdit :
 -De faire une discussion venant du joueur et non du personnage (HRP vocal).
 -De sauter partout.
 -De ne pas obéir à un membre du gouvernement(exemple : pour les horaires de : travail, douche, etc...).
--De faire un /ano pour une autre raison que de prévenir d'une évasion.
+-De faire une anonce annonyme pour une autre raison que de prévenir d'une évasion.
 
 
 Les règles des métiers :
